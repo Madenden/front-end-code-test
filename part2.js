@@ -19,5 +19,5 @@ function print_me(value, value2) {
     print_me('foo');
     print_me('foo', 'bar');
     print_me('foo', ['bar', 'baz']);
-    print_me('foo')('ddada');
+    print_me('foo')('bar');
 })();
